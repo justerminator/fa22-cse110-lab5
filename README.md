@@ -1,3 +1,3 @@
 # Lab 5 - Starter
-expose site: https://justerminator.github.io/fa22-cse110-lab5/expose.html
-explore site: https://justerminator.github.io/fa22-cse110-lab5/explore.html
+- expose site: https://justerminator.github.io/fa22-cse110-lab5/expose.html
+- explore site: https://justerminator.github.io/fa22-cse110-lab5/explore.html
